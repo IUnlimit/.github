@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+We are iunlimit, which means i-unlimited.
 
-**Here are some ideas to get you started:**
+## About us 😉
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This repository contains many projects that we deem valuable. Some of them may have become outdated or have better alternative versions, while others might be updated slowly due to authors' lack of resources.
+
+However, if there has ever been (or even now) someone (perhaps you) interested in these projects, who has used (or is currently using) them, and has been helped by them, then this is the significance of why we persist in maintaining these projects.
